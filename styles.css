@@ -1,0 +1,7 @@
+table { border-collapse: collapse }
+td { width: 1em; height: 1em; border: 1px solid }
+td.s { border-bottom: none }
+td.n { border-top: none }
+td.w { border-left: none }
+td.e { border-right: none }
+td.v { background: skyblue}
